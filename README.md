@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm R.K.Jyothish</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+- Currently pursuing Btech Degree in Vellore Institute of Technology, Chennai, India.
 
 - 🌱 I’m currently learning **Java,Cpp**
 
