@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm R K Jyothish</h1>
+<h1 align="center">Hi [👋](https://media1.tenor.com/images/f88ee476d2f653b9cbc5a7b95acbd265/tenor.gif?itemid=11366012), I'm R K Jyothish</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 - 🌱 I’m currently learning **MVC framework,HTML,CSS**
@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/rkjyothish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rkjyothish" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/jyothishrk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jyothishrk" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rkjyothish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rkjyothish" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jyothish_rk2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rkjyothish" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/r_k_jyothish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="r_k_jyothish" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jyothishrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jyothishrk" height="30" width="40" /></a>
 </p>
