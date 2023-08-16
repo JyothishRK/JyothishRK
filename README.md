@@ -1,4 +1,4 @@
-<h1 align="center">Hi  <img src="https://www.bing.com/images/search?view=detailV2&ccid=UOMS6tHC&id=AED384429B4943C419BAA8A7382C43234A1FEDC3&thid=OIP.UOMS6tHCDaUVEzgdaETPmwAAAA&mediaurl=https%3a%2f%2fcdn3.emoji.gg%2femojis%2f2112_wave_animated.gif&exph=128&expw=128&q=waving+emoji+small+dimension+gif&simid=607993762793682051&FORM=IRPRST&ck=B171B891224B868CB1913DB4F81F2EFB&selectedIndex=0&qft=+filterui%3aimagesize-small"/>, I'm R K Jyothish</h1>
+<h1 align="center">Hi  <img alt="wave" src="https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand.png" width=3.5%>, I'm R K Jyothish</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 - 🌱 I’m currently learning **MVC framework,HTML,CSS**
