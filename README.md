@@ -1,4 +1,4 @@
-<h1 align="center">Hi [👋](https://media1.tenor.com/images/f88ee476d2f653b9cbc5a7b95acbd265/tenor.gif?itemid=11366012), I'm R K Jyothish</h1>
+<h1 align="center">Hi ![hippo]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://media1.tenor.com/images/f88ee476d2f653b9cbc5a7b95acbd265/tenor.gif?itemid=11366012)), I'm R K Jyothish</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 - 🌱 I’m currently learning **MVC framework,HTML,CSS**
