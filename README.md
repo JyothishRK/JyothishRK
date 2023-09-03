@@ -1,7 +1,7 @@
 <h1 align="center">Hi  <img alt="wave" src="https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand.png" width=3.5%>, I'm R K Jyothish</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **MVC framework,HTML,CSS**
+- 🌱 I’m currently Working on **MVC Architecture,HTML,CSS**
 
 - 📫 How to reach me **rkjyothish@gmail.com**
 
